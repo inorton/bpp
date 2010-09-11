@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BalsamicPreprocessor/Main.cs" ctype="Workbench">
+    <Files>
+      <File FileName="BalsamicPreprocessor/Main.cs" Line="42" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/inb/Projects/git/bpp/BalsamicPreprocessor/BalsamicPreprocessor/Main.cs" line="90" />
+      <Breakpoint file="/home/inb/Projects/git/bpp/BalsamicPreprocessor/BalsamicPreprocessor/Main.cs" line="56" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore">
+    <Watch file="BalsamicPreprocessor/Main.cs" line="59" offsetX="678" offsetY="986" expression="XmlNode" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
